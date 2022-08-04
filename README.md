@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StorytellingThruData
 - 👀 I’m interested in DATA analytics
 - 🌱 I’m currently learning SQL and TABLEAU
-- 💞️ I’m looking to collaborate on Data analysis projects
+- 💞️ See my tableau projects: https://public.tableau.com/app/profile/karim.j
 
 <!---
 StorytellingThruData/StorytellingThruData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
