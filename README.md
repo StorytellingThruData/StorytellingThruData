@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @StorytellingThruData
-- 👀 I’m interested in DATA analytics
-- 🌱 I’m currently learning SQL and TABLEAU
+- 👀 I’m interested in DATA Analytics and Big Data
+- 🌱 I use Python for analytics, SQL for queriering and Tableau & Looker for Viz
+- Recently I have been developing skills in Scala and Spark 
 - 💞️ See my tableau projects: https://public.tableau.com/app/profile/karim.j
 
 <!---
